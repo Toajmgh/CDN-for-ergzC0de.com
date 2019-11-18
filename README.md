@@ -1,2 +1,2 @@
-# jsdelivrImg
-jsDelivr – Open Source CDN
+# jsdelivr
+jsDelivr – Open Source CDN for ergzC0de.com
